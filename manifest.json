@@ -1,0 +1,14 @@
+{
+
+  "name":"MyChromeApp",//Important Field
+  "description":"Trying to build chrome app and gain some knowledge",
+  "version":"0.0.1",//Important Field
+  "manifest_version":2,//Important Field
+  "app":{
+    "backgroud":{
+      "scripts":["background.js"]
+    }
+  },
+  "icons":{"16":"MyChromeApp_16.ico","128":"MyChromeApp_128.ico"}
+
+}
